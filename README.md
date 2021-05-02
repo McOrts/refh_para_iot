@@ -20,8 +20,7 @@ Un equipo de la empresa Georgia Tech ha desarrollado una pequeña antena impresa
 
 El diseño de Georgia Tech se ha basado en una patente de una lente para radiofrecuencais del año 1965 de Walter Rotman. Es la lente Rotman, un metamaterial que permite que se formen múltiples haces de antena sin la necesidad de interruptores o desfasadores. 
 
-<img src="./img/Rotmanpatent1.jpg" width=300 align="left" />
-<img src="./img/Rotmanpatent2.jpg" width=300 align="right" />
+<img src="./img/Rotmanpatent.jpg" width=300 align="center" />
 
 ## Manos a la obra DIY tu REFH
 En el mundo Maker tenemos unos componentes más accesibles que son los diodos de germanio. Que es el componente que sucedió al cristal de galio para la recitificación de señal que ahora se ajusta más a la banda de la Frecuencia Modulada (FM). Así que si podremos montar nuestro dispositivo experimental con unos cuantos diodos de estos.
